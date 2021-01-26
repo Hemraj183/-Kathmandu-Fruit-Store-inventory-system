@@ -1,0 +1,2 @@
+# -Kathmandu-Fruit-Store-inventory-system
+The project is all about developing an application for the Kathmandu Fruit Store inventory system is an inventory software of Kathmandu Fruit store that stores data of fruit imports. Kathmandu Fruit store is a big seller of fruits which imports fruits from local and international and sold it to the local vendors. This inventory system helps in storing data in digital form. We have developed a system for fruit stores using the programming language Java, and we have used NetBeans to create this program.
